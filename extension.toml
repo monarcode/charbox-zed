@@ -4,4 +4,4 @@ version = "0.1.0"
 schema_version = 1
 authors = ["MONARCH"]
 description = "A high-contrast, Gruvbox-inspired Zed theme based on Darkbox with Catbox-inspired syntax tuning."
-repository = "https://github.com/YOUR_USERNAME/charbox-theme"
+repository = "https://github.com/monarcode/charbox-zed"
