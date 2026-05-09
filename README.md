@@ -1,14 +1,15 @@
 # Charbox Theme
 
-![Charbox theme preview](assets/theme-preview.png)
+![Charbox theme preview](assets/theme-preview-combined.png)
 
-A darker, high-contrast, Gruvbox-inspired theme for Zed.
+A high-contrast, Gruvbox-inspired theme family for Zed.
 
 ## Themes included
 
 - Charbox
-- Charbox midnight
-- Charbox midnight alt
+- Charbox Midnight
+- Charbox Midnight Alt
+- Charbox Sepia
 
 ## Local development install
 
